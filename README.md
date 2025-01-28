@@ -17,8 +17,8 @@ The Hospital Appointment Management System is a web-based application that allow
   - Manage the entire system with administrative controls.
 
 ## Technologies Used
-- **Backend**: Java, JSP, Servlets
+- **Backend**: Java, Servlets
 - **Database**: MySQL
-- **Frontend**: HTML, CSS
+- **Frontend**: JSP, CSS
 - **Server**:Tomcat
 
